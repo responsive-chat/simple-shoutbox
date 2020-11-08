@@ -1,2 +1,2 @@
 # chat
-Responsive mini chat php json script
+Responsive shoutbox php json script
